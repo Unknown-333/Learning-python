@@ -1,0 +1,1 @@
+1. Yo append.txt ho yo exist garthena, maile eslai naya banaye using 'a' mode. 
